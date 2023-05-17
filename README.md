@@ -5,6 +5,7 @@ Questo progetto è un'applicazione web che permette agli utenti di utilizzare un
 L'applicazione è stata sviluppata con Python, Scikit-Learn e Streamlit, richiede Python 3.8 o versioni successive per funzionare correttamente.
 
 Nella Repo è presente un CSV di prova di nome "Immobili", potete utilizzarlo per usare il modello.
+
 Accedi all'applicazione nel tuo browser all'indirizzo http://localhost:8501/
 
 ## Crediti
